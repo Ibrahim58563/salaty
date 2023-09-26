@@ -9,15 +9,17 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: AppColors.primaryColor,
-      body: Column(children: [
+      body: Column(mainAxisAlignment: MainAxisAlignment.start, children: [
         Stack(
           children: [
             Image.asset(
-              Assets.manPrayingMainImage,
-              width: MediaQuery.of(context).size.width * 0.5,
-              height: MediaQuery.of(context).size.height * 0.5,
+              Assets.assetsImagesManPraying,
+              fit: BoxFit.contain,
+              width: MediaQuery.of(context).size.width * 0.56,
+              height: MediaQuery.of(context).size.height * 0.35,
             ),
             Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Padding(
@@ -34,33 +36,183 @@ class HomeScreen extends StatelessWidget {
                     ),
                   ),
                 ),
-                Column(
+                Row(
                   children: [
-                    Container(
-                      decoration: const BoxDecoration(
-                        color: AppColors.secondaryColor,
-                        borderRadius: BorderRadius.only(
-                          topLeft: Radius.circular(25),
-                          bottomRight: Radius.circular(25),
+                    Column(
+                      children: [
+                        const SizedBox(
+                          height: 60,
                         ),
-                      ),
-                      child: const Padding(
-                        padding: EdgeInsets.all(12.0),
-                        child: Text(
-                          "MAGHRIB 12:05 PM",
-                          style: TextStyle(
-                            color: AppColors.whiteColor,
-                            fontSize: 16,
+                        Container(
+                          decoration: const BoxDecoration(
+                            color: AppColors.secondaryColor,
+                            borderRadius: BorderRadius.only(
+                              topLeft: Radius.circular(25),
+                              bottomRight: Radius.circular(25),
+                            ),
+                          ),
+                          child: const Padding(
+                            padding: EdgeInsets.symmetric(
+                              vertical: 9,
+                              horizontal: 12,
+                            ),
+                            child: Text(
+                              "MAGHRIB 12:05 PM",
+                              style: TextStyle(
+                                color: AppColors.whiteColor,
+                                fontSize: 16,
+                              ),
+                            ),
                           ),
                         ),
-                      ),
-                    )
+                        const SizedBox(
+                          height: 10,
+                        ),
+                        Container(
+                          decoration: const BoxDecoration(
+                            color: AppColors.secondaryColor,
+                            borderRadius: BorderRadius.only(
+                              topLeft: Radius.circular(25),
+                              bottomRight: Radius.circular(25),
+                            ),
+                          ),
+                          child: const Padding(
+                            padding: EdgeInsets.symmetric(
+                              vertical: 9,
+                              horizontal: 12,
+                            ),
+                            child: Text(
+                              "MAGHRIB 12:05 PM",
+                              style: TextStyle(
+                                color: AppColors.whiteColor,
+                                fontSize: 16,
+                              ),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(
+                          height: 10,
+                        ),
+                        Container(
+                          decoration: const BoxDecoration(
+                            color: AppColors.secondaryColor,
+                            borderRadius: BorderRadius.only(
+                              topLeft: Radius.circular(25),
+                              bottomRight: Radius.circular(25),
+                            ),
+                          ),
+                          child: const Padding(
+                            padding: EdgeInsets.symmetric(
+                              vertical: 9,
+                              horizontal: 12,
+                            ),
+                            child: Text(
+                              "MAGHRIB 12:05 PM",
+                              style: TextStyle(
+                                color: AppColors.whiteColor,
+                                fontSize: 16,
+                              ),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(
+                          height: 10,
+                        ),
+                        Container(
+                          decoration: const BoxDecoration(
+                            color: AppColors.secondaryColor,
+                            borderRadius: BorderRadius.only(
+                              topLeft: Radius.circular(25),
+                              bottomRight: Radius.circular(25),
+                            ),
+                          ),
+                          child: const Padding(
+                            padding: EdgeInsets.symmetric(
+                              vertical: 9,
+                              horizontal: 12,
+                            ),
+                            child: Text(
+                              "MAGHRIB 12:05 PM",
+                              style: TextStyle(
+                                color: AppColors.whiteColor,
+                                fontSize: 16,
+                              ),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(
+                          height: 10,
+                        ),
+                        Container(
+                          decoration: const BoxDecoration(
+                            color: AppColors.secondaryColor,
+                            borderRadius: BorderRadius.only(
+                              topLeft: Radius.circular(25),
+                              bottomRight: Radius.circular(25),
+                            ),
+                          ),
+                          child: const Padding(
+                            padding: EdgeInsets.symmetric(
+                              vertical: 9,
+                              horizontal: 12,
+                            ),
+                            child: Text(
+                              "MAGHRIB 12:05 PM",
+                              style: TextStyle(
+                                color: AppColors.whiteColor,
+                                fontSize: 16,
+                              ),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(
+                          height: 10,
+                        ),
+                      ],
+                    ),
+                    const SizedBox(
+                      width: 21,
+                    ),
                   ],
-                )
+                ),
               ],
             ),
           ],
         ),
+        const Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text(
+              "Wednesday",
+              style: TextStyle(
+                color: AppColors.whiteColor,
+                fontSize: 22,
+              ),
+            ),
+            SizedBox(
+              width: 10,
+            ),
+            CircleAvatar(
+              radius: 15,
+              backgroundColor: Colors.black38,
+              child: CircleAvatar(
+                radius: 7,
+                backgroundColor: Colors.yellow,
+              ),
+            ),
+          ],
+        ),
+        Row(
+          children: [
+            Stack(
+              children: [
+                Image.asset(
+                  Assets.assetsImagesCalender,
+                ),
+              ],
+            )
+          ],
+        )
       ]),
     );
   }
