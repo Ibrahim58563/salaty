@@ -1,0 +1,594 @@
+[
+   {
+      "StepName": "Encarar la qibla y Takbirat al ihram",
+      "image": "assets/images/Takbir_ihram.jpg",
+      "Video": "assets/video/Takbir_ihram.mp4",
+      "description": "Quien desea rezar se debe poner de pie con la parte delantera de su cuerpo y su rostro en dirección de la qibla, consciente de estar ante Al-lah con actitud devota y humilde\n.\n🌟Debes ser puro como en las lecciones de pureza.\n🔶-Luego concibe en su corazón la intención de realizar As-Sala\n\n⭐No necesitas decirla(la intención) en voz alta, pero debes saber el tipo y número de rak'ats de la oración que vas a ofrecer.\\n\\nUn ejemplo sería pensar como:\\n\\n'Me he presentado frente a Allah para ofrecer 2 rak'at Fard of Fajar Prayer, para Allah, mirando hacia la Kaaba' \n\n🔶-Luego levanta ambas manos a la altura de sus hombros u orejas y dice Takbir :..... 👇👇",
+      "topics": [
+         {
+            "body": "الله أكبر",
+            "transliteration": "\"Al-lahu Akbar \"",
+            "audio": "assets/audio/Takbir.mp3",
+            "Video": "assets/video/Allahuakbar.mp4",
+            "translation": "Allah es el más grande",
+            "Descriptiontopic": "0"
+         }
+      ]
+   },
+   {
+      "StepName": "La plegaria de apertura (opcional)",
+      "image": "assets/images/Qera2a.jpg",
+      "Video": "assets/video/qer2a.mp4",
+      "description": "Repetir estas palabras no es una condición de la oración, pero es mejor recitarlas al comienzo de la oración.\\n...... 👇👇",
+      "topics": [
+         {
+            "body": "سبحانك اللهم وبحمدك وتبارك اسمك وتعالى جدك ولا إله غيرك",
+            "transliteration": "“subhanak Al-lahumma wa bihamdika, tabarak ismuk wa ta’ala yadduk wa la ilaha gairuk”",
+            "audio": "assets/audio/Istiftah.mp3",
+            "Video": "assets/video/istiftah.mp4",
+            "translation": "Glorificado y alabado seas Al-lah; bendito sea tu nombre; suprema es tu voluntad y no hay dios sino Tú",
+            "Descriptiontopic": "0"
+         }
+      ]
+   },
+   {
+      "StepName": "la recitación de surat Al Fatiha",
+      "image": "assets/images/Qera2a.jpg",
+      "Video": "assets/video/qer2a.mp4",
+      "description": "Recite el refugio contra Satán el maldito 👇👇👇",
+      "topics": [
+         {
+            "body": "أعوذ بالله من الشيطان الرجيم",
+            "transliteration": "\"A’udhu bil-lahi min ash-shaitan ir rayim”",
+            "audio": "assets/audio/fa0.mp3",
+            "Video": "assets/video/Ayah0.mp4",
+            "translation": "me refugio en Al-lah contra Satán el maldito",
+            "Descriptiontopic": "Después de eso, comience a recitar Surah Al-Fatihah 👇👇"
+         },
+         {
+            "body": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ (1)",
+            "transliteration": "Bismillaahir Rahmaanir Raheem",
+            "audio": "assets/audio/fa1.mp3",
+            "Video": "assets/video/Ayah1.mp4",
+            "translation": "En el nombre de Dios, el Compasivo con toda la creación, el Misericordioso con los creyentes.",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ (2)",
+            "transliteration": "Alhamdu lillaahi Rabbil 'aalameen",
+            "audio": "assets/audio/fa2.mp3",
+            "Video": "assets/video/Ayah2.mp4",
+            "translation": "Todas las alabanzas son para Dios, Señor de todo cuanto existe",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "الرَّحْمَـٰنِ الرَّحِيمِ (3)",
+            "transliteration": "Ar-Rahmaanir-Raheem",
+            "audio": "assets/audio/fa3.mp3",
+            "Video": "assets/video/Ayah3.mp4",
+            "translation": "el Compasivo, el Misericordioso.",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "مَالِكِ يَوْمِ الدِّينِ (4)",
+            "transliteration": "Maaliki Yawmid-Deen",
+            "audio": "assets/audio/fa4.mp3",
+            "Video": "assets/video/Ayah4.mp4",
+            "translation": "Soberano absoluto del Día del Juicio Final",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ (5)",
+            "transliteration": "Iyyaaka na'budu wa lyyaaka nasta'een",
+            "audio": "assets/audio/fa5.mp3",
+            "Video": "assets/video/Ayah5.mp4",
+            "translation": "solo a Ti te adoramos y solo de Ti imploramos ayuda.",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ (6)",
+            "transliteration": "Ihdinas-Siraatal-Mustaqeem",
+            "audio": "assets/audio/fa6.mp3",
+            "Video": "assets/video/Ayah6.mp4",
+            "translation": "¡Guíanos por el camino recto!",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ (7)",
+            "transliteration": "Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen",
+            "audio": "assets/audio/fa7.mp3",
+            "Video": "assets/video/Ayah7.mp4",
+            "translation": "El camino de los que has colmado con Tus favores, no el de los que cayeron en Tu ira, ni el de los que se extraviaron.",
+            "Descriptiontopic": "la única condición es que recite en voz alta en el rezo del Fayer y en las primeras dos rak’at del Magrib y el ‘Isha’."
+         }
+      ]
+   },
+   {
+      "StepName": "Recite otra sura (opcional)",
+      "image": "assets/images/Qera2a.jpg",
+      "Video": "assets/video/qer2a.mp4",
+      "description": "Después de recitar surat Al-fateha,\n\n✨(En los primeros dos Rakaas de cada salat) \n\nRecite otra sura de Corán o parte de ella\nPor ejemplo surat Al-ijlas no112👇👇👇",
+      "topics": [
+         {
+            "body": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+            "transliteration": "Bismillaahir Rahmaanir Raheem",
+            "audio": "assets/audio/fa1.mp3",
+            "Video": "0",
+            "translation": "En el nombre de Dios, el Compasivo con toda la creación, el Misericordioso con los creyentes.",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "قُلْ هُوَ اللَّهُ أَحَدٌ (1)",
+            "transliteration": "1 Qul huwal laahu ahad",
+            "audio": "assets/audio/ik1.mp3",
+            "Video": "https://youtu.be/x5azlm0TN3Y",
+            "translation": "1 Di: \"Él es Al-lah, Uno.",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "اللَّهُ الصَّمَدُ (2)",
+            "transliteration": "2 Allah hus-samad",
+            "audio": "assets/audio/ik2.mp3",
+            "Video": "https://youtu.be/DxBfb3HN5YE",
+            "translation": "2 Al-lah es el Absoluto.",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "لَمْ يَلِدْ وَلَمْ يُولَدْ (3)",
+            "transliteration": "3 Lam yalid wa lam yoolad",
+            "audio": "assets/audio/ik3.mp3",
+            "Video": "https://youtu.be/66dZI2eyrQ4",
+            "translation": "3 No engendró ni fue engendrado.",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ (4)",
+            "transliteration": "4 Wa lam yakul-lahoo kufuwan ahad",
+            "audio": "assets/audio/ik4.mp3",
+            "Video": "https://youtu.be/-UDAxGAQdXY",
+            "translation": "4 Y no hay nada ni nadie que sea semejante a Él\".",
+            "Descriptiontopic": "0"
+         }
+      ]
+   },
+   {
+      "StepName": "Ar-Ruku’ y reincorporarse del mismo",
+      "image": "assets/images/Ruko3.jpg",
+      "Video": "assets/video/Roko3.mp4",
+      "description": "🌺El orante levanta sus manos como ya mencionamos y pronuncia 👇👇",
+      "topics": [
+         {
+            "body": "الله أكبر",
+            "transliteration": "\"Al-lahu Akbar \"",
+            "audio": "assets/audio/Takbir.mp3",
+            "Video": "assets/video/Allahuakbar.mp4",
+            "translation": "Allah es el más grande",
+            "Descriptiontopic": "........ para luego inclinarse hacia adelante (ar-ruku’) \ny pone sus manos sobre sus rodillas con los dedos entreabiertos como sujetándolas. \n\nEl orante debe estabilizarse en la posición enrectando su espalda y su cabeza,\n\n luego dice:........ 👇👇"
+         },
+         {
+            "body": "سبحان ربي العظيم",
+            "transliteration": "“Subhana rabbi al ‘Adhim”",
+            "audio": "assets/audio/Subhanarabi_aladhim.mp3",
+            "Video": "assets/video/Subhanatabiaaladhim.mp4",
+            "translation": "glorificado sea mi señor el magnífico",
+            "Descriptiontopic": "✨✨ tres veces✨✨\n\n💫 Pronuncia en secreto sin una voz fuerte💫"
+         }
+      ]
+   },
+   {
+      "StepName": "Luego se reincorpora el orante (a la posición de pie",
+      "image": "assets/images/Raf3_men_ruko3.jpg",
+      "Video": "assets/video/Raf3_men_roko3.mp4",
+      "description": "Levántese a la posición de pie anterior, luego levante la mano y colóquela sobre el cofre\\nY dice.......👇👇👇",
+      "topics": [
+         {
+            "body": "سمع الله لمن حمده",
+            "transliteration": "Sami’a Al-lah liman hamidah”",
+            "audio": "assets/audio/Samiaaallahulemanhamidah.mp3",
+            "Video": "assets/video/Sami3aallahulemanhamidah.mp4",
+            "translation": "Al-lah oye a quien le alaba",
+            "Descriptiontopic": "Entonces dice.... 👇 👇"
+         },
+         {
+            "body": "ربنا ولك الحمد",
+            "transliteration": "Rab-bana wa lak al hamd",
+            "audio": "assets/audio/Rabanawalakalhamd.mp3",
+            "Video": "assets/video/Rabana_walakalhamd.mp4",
+            "translation": "Nuestro Señor, alabado seas",
+            "Descriptiontopic": "Nota\n Si estás orando en yamaa (grupo)\n El imán dice lo primero.\"Sami’a Al-lah liman hamidah\"\n\nY repites el segundo \"Rabana wa lak al hamd\"\n\n\nPero si estás orando solo, repite los dos juntos"
+         }
+      ]
+   },
+   {
+      "StepName": "El primero suyood(postraciones)",
+      "image": "assets/images/Sujood.jpg",
+      "Video": "assets/video/Sujood1.mp4",
+      "description": "🌿- El orante pronuncia el takbir ... 👇👇",
+      "topics": [
+         {
+            "body": "الله أكبر",
+            "transliteration": "\"Al-lahu Akbar \"",
+            "audio": "assets/audio/Takbir.mp3",
+            "Video": "assets/video/Allahuakbar.mp4",
+            "translation": "Allah es el más grande",
+            "Descriptiontopic": "🌿luego se prosterna apoyando primero sus dos rodillas, luego sus manos \n\n🌿y luego su frente y nariz. Las manos se apoyan extendidas sobre el suelo a la altura de las orejas o los hombros.\n\n\n🌿- Los dedos deben quedar en dirección de la qibla y debe levantar los antebrazos del suelo [La porción del brazo entre el codo y la mano], alejando los codos de sus costados [ La porción de brazo entre el codo y el hombro ] y su vientre de sus muslos.\n\nEn esta posición dice:..... 👇👇"
+         },
+         {
+            "body": "سبحان ربي الأعلى",
+            "transliteration": "\"subhana rabbi al a’la a’la”",
+            "audio": "assets/audio/Subhanarabia_alaala.mp3",
+            "Video": "assets/video/Subhanarabiaalaala.mp4",
+            "translation": "glorificado sea mi Señor el Altísimo",
+            "Descriptiontopic": "✨✨tres veces✨✨\n\n y debe aprovechar para pronunciar plegarias abundantes.\n\n✨✨ Hablar en secreto sin una voz fuerte"
+         }
+      ]
+   },
+   {
+      "StepName": "El sentarse entre las dos postraciones(Suyood)",
+      "image": "assets/images/Jalsa.jpg",
+      "Video": "assets/video/Aljalsa.mp4",
+      "description": "Luego levanta su torso pronunciando el takbir.... 👇👇",
+      "topics": [
+         {
+            "body": "الله أكبر",
+            "transliteration": "\"Al-lahu Akbar \"",
+            "audio": "assets/audio/Takbir.mp3",
+            "Video": "assets/video/Allahuakbar.mp4",
+            "translation": "Allah es el más grande",
+            "Descriptiontopic": "y se sienta sobre su pie izquierdo y apoyándose en el derecho con los dedos en dirección de la qibla. Apoya sus manos extendidas sobre sus muslos y con sus dedos en dirección de la qibla. \n\nLuego dice:...... 👇 👇"
+         },
+         {
+            "body": "ربي اغفر لي",
+            "transliteration": "\"Rabi ighfer li \"",
+            "audio": "assets/audio/Rabiighferli.mp3",
+            "Video": "assets/video/Rabi_ighfer_li.mp4",
+            "translation": "Señor perdóname",
+            "Descriptiontopic": "✨✨tres veces✨✨"
+         }
+      ]
+   },
+   {
+      "StepName": "El segundo suyood (postraciones )",
+      "image": "assets/images/Sujood.jpg",
+      "Video": "assets/video/Sujood2.mp4",
+      "description": "🌿 Luego pronuncia una vez más el takbir y se prosterna para el segundo suyud.👇👇",
+      "topics": [
+         {
+            "body": "الله أكبر",
+            "transliteration": "\"Al-lahu Akbar \"",
+            "audio": "assets/audio/Takbir.mp3",
+            "Video": "assets/video/Allahuakbar.mp4",
+            "translation": "Allah es el más grande",
+            "Descriptiontopic": "🌿luego se prosterna apoyando primero sus dos rodillas, luego sus manos \n\n🌿y luego su frente y nariz. Las manos se apoyan extendidas sobre el suelo a la altura de las orejas o los hombros.\n\n\n🌿- Los dedos deben quedar en dirección de la qibla y debe levantar los antebrazos del suelo [La porción del brazo entre el codo y la mano], alejando los codos de sus costados [ La porción de brazo entre el codo y el hombro ] y su vientre de sus muslos.\n\nEn esta posición dice:..... 👇👇"
+         },
+         {
+            "body": "سبحان ربي الأعلى",
+            "transliteration": "\"subhana rabbi al a’la a’la”",
+            "audio": "assets/audio/Subhanarabia_alaala.mp3",
+            "Video": "assets/video/Subhanarabiaalaala.mp4",
+            "translation": "glorificado sea mi Señor el Altísimo",
+            "Descriptiontopic": "✨✨tres veces✨✨\n\n y debe aprovechar para pronunciar plegarias abundantes.\n\n✨✨ Hablar en secreto sin una voz fuerte"
+         }
+      ]
+   },
+   {
+      "StepName": "Levántate de nuevo para comenzar la segunda rak'ah y repite los pasos",
+      "image": "assets/images/Takbir_ihram.jpg",
+      "Video": "assets/video/Qeyam_men_sujood.mp4",
+      "description": "Luego levántate de la postración a la posición de pie nuevamente.\n\n🔶-Luego levanta ambas manos a la altura de sus hombros u orejas y dice:..... 👇👇",
+      "topics": [
+         {
+            "body": "الله أكبر",
+            "transliteration": "\"Al-lahu Akbar \"",
+            "audio": "assets/audio/Takbir.mp3",
+            "Video": "assets/video/Allahuakbar.mp4",
+            "translation": "Allah es el más grande",
+            "Descriptiontopic": "🔶-Luego pone su mano derecha sobre su izquierda asentada sobre el pecho y sujeta la izquierda con la derecha \n\n🔷- El orante inclina su cabeza y pone la vista en el punto donde apoyará su frente en la prosternación"
+         }
+      ]
+   },
+   {
+      "StepName": "la recitación de surat Al Fatiha",
+      "image": "assets/images/Qera2a.jpg",
+      "Video": "assets/video/qer2a.mp4",
+      "description": "Recite el refugio contra Satán el maldito 👇👇👇",
+      "topics": [
+         {
+            "body": "أعوذ بالله من الشيطان الرجيم",
+            "transliteration": "\"A’udhu bil-lahi min ash-shaitan ir rayim”",
+            "audio": "assets/audio/fa0.mp3",
+            "Video": "assets/video/Ayah0.mp4",
+            "translation": "me refugio en Al-lah contra Satán el maldito",
+            "Descriptiontopic": "Después de eso, comience a recitar Surah Al-Fatihah 👇👇"
+         },
+         {
+            "body": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ (1)",
+            "transliteration": "Bismillaahir Rahmaanir Raheem",
+            "audio": "assets/audio/fa1.mp3",
+            "Video": "assets/video/Ayah1.mp4",
+            "translation": "En el nombre de Dios, el Compasivo con toda la creación, el Misericordioso con los creyentes.",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ (2)",
+            "transliteration": "Alhamdu lillaahi Rabbil 'aalameen",
+            "audio": "assets/audio/fa2.mp3",
+            "Video": "assets/video/Ayah2.mp4",
+            "translation": "Todas las alabanzas son para Dios, Señor de todo cuanto existe",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "الرَّحْمَـٰنِ الرَّحِيمِ (3)",
+            "transliteration": "Ar-Rahmaanir-Raheem",
+            "audio": "assets/audio/fa3.mp3",
+            "Video": "assets/video/Ayah3.mp4",
+            "translation": "el Compasivo, el Misericordioso.",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "مَالِكِ يَوْمِ الدِّينِ (4)",
+            "transliteration": "Maaliki Yawmid-Deen",
+            "audio": "assets/audio/fa4.mp3",
+            "Video": "assets/video/Ayah4.mp4",
+            "translation": "Soberano absoluto del Día del Juicio Final",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ (5)",
+            "transliteration": "Iyyaaka na'budu wa lyyaaka nasta'een",
+            "audio": "assets/audio/fa5.mp3",
+            "Video": "assets/video/Ayah5.mp4",
+            "translation": "solo a Ti te adoramos y solo de Ti imploramos ayuda.",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ (6)",
+            "transliteration": "Ihdinas-Siraatal-Mustaqeem",
+            "audio": "assets/audio/fa6.mp3",
+            "Video": "assets/video/Ayah6.mp4",
+            "translation": "¡Guíanos por el camino recto!",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ (7)",
+            "transliteration": "Siraatal-lazeena an'amta 'alaihim ghayril-maghdoobi 'alaihim wa lad-daaalleen",
+            "audio": "assets/audio/fa7.mp3",
+            "Video": "assets/video/Ayah7.mp4",
+            "translation": "El camino de los que has colmado con Tus favores, no el de los que cayeron en Tu ira, ni el de los que se extraviaron.",
+            "Descriptiontopic": "la única condición es que recite en voz alta en el rezo del Fayer y en las primeras dos rak’at del Magrib y el ‘Isha’."
+         }
+      ]
+   },
+   {
+      "StepName": "Recite otra sura (opcional)",
+      "image": "assets/images/Qera2a.jpg",
+      "Video": "assets/video/qer2a.mp4",
+      "description": "Después de recitar surat Al-fateha,\n\n✨(En los primeros dos Rakaas de cada salat) \n\nRecite otra sura de Corán o parte de ella\nPor ejemplo surat An-Nas no114👇👇👇",
+      "topics": [
+         {
+            "body": "بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ",
+            "transliteration": "Bismillaahir Rahmaanir Raheem",
+            "audio": "assets/audio/fa1.mp3",
+            "Video": "0",
+            "translation": "En el nombre de Dios, el Compasivo con toda la creación, el Misericordioso con los creyentes.",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "1. قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+            "transliteration": "1 Qul a'oozu birabbin naas",
+            "audio": "assets/audio/na1.mp3",
+            "Video": "https://youtu.be/fiGGtekxEL0",
+            "translation": "1 Di: \"Me refugio en el Señor de los seres humanos,",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "2. مَلِكِ النَّاسِ",
+            "transliteration": "2 Malikin naas",
+            "audio": "assets/audio/na2.mp3",
+            "Video": "https://youtu.be/wZ759f3HWv0",
+            "translation": "2 en el Rey Soberano de los seres humanos,",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "3. إِلَٰهِ النَّاسِ",
+            "transliteration": "3 Ilaahin naas",
+            "audio": "assets/audio/na3.mp3",
+            "Video": "https://youtu.be/Kk_v8kJXLs4",
+            "translation": "3 en el [único] Dios de los seres humanos,",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "4. مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+            "transliteration": "4 Min sharril waswaasil khannaas",
+            "audio": "assets/audio/na4.mp3",
+            "Video": "https://youtu.be/CnFJocaNeyI",
+            "translation": "4 de la maldad del [demonio] susurrador que huye [cuando el nombre de Dios es mencionado],",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "5. الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+            "transliteration": "5 Allazee yuwaswisu fee sudoorin naas",
+            "audio": "assets/audio/na5.mp3",
+            "Video": "https://youtu.be/sF25eb_6dZ8",
+            "translation": "5 que susurra en los corazones de los seres humanos,",
+            "Descriptiontopic": "0"
+         },
+         {
+            "body": "6. مِنَ الْجِنَّةِ وَالنَّاسِ",
+            "transliteration": "6 Minal jinnati wannaas",
+            "audio": "assets/audio/na6.mp3",
+            "Video": "https://youtu.be/KiZOn-3WGi8",
+            "translation": "6  y existe entre los yinnes y entre los seres humanos\".",
+            "Descriptiontopic": "0"
+         }
+      ]
+   },
+   {
+      "StepName": "Ar-Ruku’ y reincorporarse del mismo",
+      "image": "assets/images/Ruko3.jpg",
+      "Video": "assets/video/Roko3.mp4",
+      "description": "🌺El orante levanta sus manos como ya mencionamos y pronuncia 👇👇",
+      "topics": [
+         {
+            "body": "الله أكبر",
+            "transliteration": "\"Al-lahu Akbar \"",
+            "audio": "assets/audio/Takbir.mp3",
+            "Video": "assets/video/Allahuakbar.mp4",
+            "translation": "Allah es el más grande",
+            "Descriptiontopic": "........ para luego inclinarse hacia adelante (ar-ruku’) \ny pone sus manos sobre sus rodillas con los dedos entreabiertos como sujetándolas. \n\nEl orante debe estabilizarse en la posición enrectando su espalda y su cabeza,\n\n luego dice:........ 👇👇"
+         },
+         {
+            "body": "سبحان ربي العظيم",
+            "transliteration": "“Subhana rabbi al ‘Adhim”",
+            "audio": "assets/audio/Subhanarabi_aladhim.mp3",
+            "Video": "assets/video/Subhanatabiaaladhim.mp4",
+            "translation": "glorificado sea mi señor el magnífico",
+            "Descriptiontopic": "✨✨ tres veces✨✨\n\n💫 Pronuncia en secreto sin una voz fuerte💫"
+         }
+      ]
+   },
+   {
+      "StepName": "Luego se reincorpora el orante (a la posición de pie",
+      "image": "assets/images/Raf3_men_ruko3.jpg",
+      "Video": "assets/video/Raf3_men_roko3.mp4",
+      "description": "Levántese a la posición de pie anterior, luego levante la mano y colóquela sobre el cofre\\nY dice.......👇👇👇",
+      "topics": [
+         {
+            "body": "سمع الله لمن حمده",
+            "transliteration": "Sami’a Al-lah liman hamidah”",
+            "audio": "assets/audio/Samiaaallahulemanhamidah.mp3",
+            "Video": "assets/video/Sami3aallahulemanhamidah.mp4",
+            "translation": "Al-lah oye a quien le alaba",
+            "Descriptiontopic": "Entonces dice.... 👇 👇"
+         },
+         {
+            "body": "ربنا ولك الحمد",
+            "transliteration": "Rab-bana wa lak al hamd",
+            "audio": "assets/audio/Rabanawalakalhamd.mp3",
+            "Video": "assets/video/Rabana_walakalhamd.mp4",
+            "translation": "Nuestro Señor, alabado seas",
+            "Descriptiontopic": "Nota\n Si estás orando en yamaa (grupo)\n El imán dice lo primero.\"Sami’a Al-lah liman hamidah\"\n\nY repites el segundo \"Rabana wa lak al hamd\"\n\n\nPero si estás orando solo, repite los dos juntos"
+         }
+      ]
+   },
+   {
+      "StepName": "El primero suyood(postraciones)",
+      "image": "assets/images/Sujood.jpg",
+      "Video": "assets/video/Sujood1.mp4",
+      "description": "🌿- El orante pronuncia el takbir ... 👇👇",
+      "topics": [
+         {
+            "body": "الله أكبر",
+            "transliteration": "\"Al-lahu Akbar \"",
+            "audio": "assets/audio/Takbir.mp3",
+            "Video": "assets/video/Allahuakbar.mp4",
+            "translation": "Allah es el más grande",
+            "Descriptiontopic": "🌿luego se prosterna apoyando primero sus dos rodillas, luego sus manos \n\n🌿y luego su frente y nariz. Las manos se apoyan extendidas sobre el suelo a la altura de las orejas o los hombros.\n\n\n🌿- Los dedos deben quedar en dirección de la qibla y debe levantar los antebrazos del suelo [La porción del brazo entre el codo y la mano], alejando los codos de sus costados [ La porción de brazo entre el codo y el hombro ] y su vientre de sus muslos.\n\nEn esta posición dice:..... 👇👇"
+         },
+         {
+            "body": "سبحان ربي الأعلى",
+            "transliteration": "\"subhana rabbi al a’la a’la”",
+            "audio": "assets/audio/Subhanarabia_alaala.mp3",
+            "Video": "assets/video/Subhanarabiaalaala.mp4",
+            "translation": "glorificado sea mi Señor el Altísimo",
+            "Descriptiontopic": "✨✨tres veces✨✨\n\n y debe aprovechar para pronunciar plegarias abundantes.\n\n✨✨ Hablar en secreto sin una voz fuerte"
+         }
+      ]
+   },
+   {
+      "StepName": "El sentarse entre las dos postraciones(Suyood)",
+      "image": "assets/images/Jalsa.jpg",
+      "Video": "assets/video/Aljalsa.mp4",
+      "description": "Luego levanta su torso pronunciando el takbir.... 👇👇",
+      "topics": [
+         {
+            "body": "الله أكبر",
+            "transliteration": "\"Al-lahu Akbar \"",
+            "audio": "audio/1.mp3",
+            "Video": "assets/audio/Takbir.mp3",
+            "translation": "Allah es el más grande",
+            "Descriptiontopic": "y se sienta sobre su pie izquierdo y apoyándose en el derecho con los dedos en dirección de la qibla. Apoya sus manos extendidas sobre sus muslos y con sus dedos en dirección de la qibla. \n\nLuego dice:...... 👇 👇"
+         },
+         {
+            "body": "ربي اغفر لي",
+            "transliteration": "\"Rabi ighfer li \"",
+            "audio": "assets/audio/Rabiighferli.mp3",
+            "Video": "assets/video/Rabi_ighfer_li.mp4",
+            "translation": "Señor perdóname",
+            "Descriptiontopic": "✨✨tres veces✨✨"
+         }
+      ]
+   },
+   {
+      "StepName": "El segundo suyood (postraciones )",
+      "image": "assets/images/Sujood.jpg",
+      "Video": "assets/video/Sujood2.mp4",
+      "description": "🌿 Luego pronuncia una vez más el takbir y se prosterna para el segundo suyud.👇👇",
+      "topics": [
+         {
+            "body": "الله أكبر",
+            "transliteration": "\"Al-lahu Akbar \"",
+            "audio": "assets/audio/Takbir.mp3",
+            "Video": "assets/video/Allahuakbar.mp4",
+            "translation": "Allah es el más grande",
+            "Descriptiontopic": "🌿luego se prosterna apoyando primero sus dos rodillas, luego sus manos \n\n🌿y luego su frente y nariz. Las manos se apoyan extendidas sobre el suelo a la altura de las orejas o los hombros.\n\n\n🌿- Los dedos deben quedar en dirección de la qibla y debe levantar los antebrazos del suelo [La porción del brazo entre el codo y la mano], alejando los codos de sus costados [ La porción de brazo entre el codo y el hombro ] y su vientre de sus muslos.\n\nEn esta posición dice:..... 👇👇"
+         },
+         {
+            "body": "سبحان ربي الأعلى",
+            "transliteration": "\"subhana rabbi al a’la a’la”",
+            "audio": "assets/audio/Subhanarabia_alaala.mp3",
+            "Video": "assets/video/Subhanarabiaalaala.mp4",
+            "translation": "glorificado sea mi Señor el Altísimo",
+            "Descriptiontopic": "✨✨tres veces✨✨\n\n y debe aprovechar para pronunciar plegarias abundantes.\n\n✨✨ Hablar en secreto sin una voz fuerte"
+         }
+      ]
+   },
+   {
+      "StepName": "At-Tachahod",
+      "image": "assets/images/Tachahod.jpg",
+      "Video": "assets/video/Tachahod.mp4",
+      "description": "Luego se sienta en posición de tawarruk \n para el tashahhud final. Esta posición de tawarruk consiste en sentarse directamente sobre el suelo cruzando la pierna izquierda bajo sus muslos hasta salir por el lado derecho. \n\nY dice.... 👇 👇",
+      "topics": [
+         {
+            "body": "الله أكبر",
+            "transliteration": "\"Al-lahu Akbar \"",
+            "audio": "assets/audio/Takbir.mp3",
+            "Video": "assets/video/Allahuakbar.mp4",
+            "translation": "Allah es el más grande",
+            "Descriptiontopic": "Entonces dice...... 👇 👇"
+         },
+         {
+            "Descriptiontopic": "0",
+            "body": "التحيات لله، والصلوات والطيبات، السلام عليك أيها النبي، ورحمة الله وبركاته، السلام علينا، وعلى عباد الله الصالحين، أشهد أن لا إله إلا الله وحده لا شريك له، وأشهد أن محمدًا عبده ورسوله\nاللهم صل على محمد وعلى آل محمد، كما صليت على إبراهيم، وعلى آل إبراهيم، إنك حميد مجيد، اللهم بارك على محمد، وعلى آل محمد، كما باركت على إبراهيم، وعلى آل إبراهيم، إنك حميد مجيد.",
+            "transliteration": "\"At-tahiyato lel-lah, was-salawato at-tayebat\nAs-Salam ‘alaik aiuha an-nabi wa rahmatul-lahi wa barakatuh, As-Salam ‘alaina wa ‘ala ‘ibadil-lahi as-salihin, ash-hadu an la ilaha il-la Al-lah wa anna Muhammadan ‘abduhu wa rasuluh”\n\n “Al-lahumma sal-li ‘ala Muhammadin wa ‘ala al muhammadin kama sal-laita ‘ala Ibrahim wa ‘ala al Ibrahim innaka hamidun mayid. Wa barik ‘ala Muhammadin wa ‘ala al Muhammadin kama barakta ‘ala Ibrahima wa ‘ala al Ibrahima innaka hamidun mayid”",
+            "audio": "assets/audio/Taheyat.mp3",
+            "Video": "https://youtu.be/SWkBfrQk9VE?si=_MKS8LtzYrGxBRL9",
+            "translation": "(Saludos a Al-láh y buenas oraciones.\nla paz sea contigo,Profeta, junto con la misericordia y bendiciones de Al-lah. La paz sea con nosotros y con los siervos rectos de Al-lah. Doy testimonio de que no hay más dios sino Al-lah y doy testimonio de que Muhammad es Su siervo y Mensajero)\n\n(Al-lah, exalta a Muhammad y a la familia de Muhammad en la misma manera en que exaltaste a Abraham y a la familia de Abraham, Tú eres alabado y glorioso. Y bendice a Muhammad y a la familia de Muhammad en la misma manera en que bendijiste a Abraham y a la familia de Abraham, Tú eres alabado y glorioso)."
+         }
+      ]
+   },
+   {
+      "StepName": "At-taslim",
+      "image": "assets/images/Taslim.jpg",
+      "Video": "assets/video/Taslim.mp4",
+      "description": "Para terminar el rezo el orante saluda hacia su derecha diciendo:..... 👇👇",
+      "topics": [
+         {
+            "body": "السلام عليكم ورحمة الله",
+            "transliteration": "“As-Salam ‘alaikum wa rahmatul-lahi wa barakatuh”",
+            "audio": "assets/audio/Taslim.mp3",
+            "Video": "assets/video/Taslim.mp4",
+            "translation": "(la paz, la misericordia y las bendiciones de Al-lah sean con ustedes)",
+            "Descriptiontopic": "y también hacia su izquierda. Diciendo 👇👇"
+         },
+         {
+            "body": "السلام عليكم ورحمة الله",
+            "transliteration": "“As-Salam ‘alaikum wa rahmatul-lahi wa barakatuh”",
+            "audio": "assets/audio/Taslim.mp3",
+            "Video": "assets/video/Taslim.mp4",
+            "translation": "(la paz, la misericordia y las bendiciones de Al-lah sean con ustedes)",
+            "Descriptiontopic": "0"
+         }
+      ]
+   }
+]
