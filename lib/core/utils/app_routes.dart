@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:salaty/features/presentation/views/home/home_screen.dart';
+import 'package:salaty/features/home/presentation/views/home_view.dart';
 
 class AppRoutes {
   static final Map<String, WidgetBuilder> routes = {
-    '/': (context) => const HomeScreen(),
-    // '/details': (context) => const ProductDetailsScreen(),
+    '/': (context) => const HomeView(),
   };
 }
